@@ -1,0 +1,11 @@
+/* src/styles.css */
+
+/* De tre obligatoriska Tailwind-direktiven */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Eventuell global CSS kan läggas till här */
+* {
+    box-sizing: border-box;
+}
